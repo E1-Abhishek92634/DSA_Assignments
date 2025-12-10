@@ -36,7 +36,7 @@ int main()
 {
 	struct Employee emp[MAX];
 
-	//input employee details
+	
 	printf("Enter details of %d emplyees:\n",MAX);
 	for(int i =0;i<MAX;i++)
 	{
